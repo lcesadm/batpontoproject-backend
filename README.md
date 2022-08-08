@@ -61,7 +61,7 @@ spring.datasource.password=${DATABASE_PASSWORD}
 | :---: | :---: 
 <p align="center">
     <a href="./LICENSE" target="_blank">
-        <img src="http://img.shields.io/static/v1?label=LICENSE&message=MIT&color=green&style=for-the-badge" alt="MIT LICENSE">
+        <img src="https://img.shields.io/github/license/leolcm/batpontoproject-backend?style=for-the-badge" alt="MIT LICENSE">
     </a>
     <br>
     Copyright © 2022 - BatPonto
