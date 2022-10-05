@@ -1,7 +1,7 @@
 <h1 align="center">batpontoproject-backend</h1>
 <p align="center">
     <img src="logo.png" alt="BatPonto Logo" width="200"><br>
-    <img src="http://img.shields.io/badge/status-finished-green?style=for-the-badge" alt="Status">
+    <img src="http://img.shields.io/badge/status-finished-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
 ### Topics :large_blue_diamond:
