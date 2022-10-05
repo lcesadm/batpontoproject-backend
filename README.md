@@ -1,13 +1,14 @@
 <h1 align="center">batpontoproject-backend</h1>
 <p align="center">
-    <img src="logo.png" alt="BatPonto Logo" width="200">
+    <img src="logo.png" alt="BatPonto Logo" width="200"><br>
+    <img src="http://img.shields.io/badge/status-finished-green?style=for-the-badge" alt="Status">
 </p>
 
-### Topics
-:small_blue_diamond: [About](#about-book)  
-:small_blue_diamond: [ERD](#erd-clipboard)  
-:small_blue_diamond: [Running Application](#running-application-arrow_forward)  
-:small_blue_diamond: [Developers Team](#developers-team-octocat)  
+### Topics :large_blue_diamond:
+**:small_blue_diamond: [About :book:](#about-book)**  
+**:small_blue_diamond: [ERD :clipboard:](#erd-clipboard)**  
+**:small_blue_diamond: [Running Application :arrow_forward:](#running-application-arrow_forward)**  
+**:small_blue_diamond: [Developers Team :octocat:](#developers-team-octocat)**
 
 ## About :book:
 <p align="justify">
@@ -26,7 +27,6 @@
     <a href="https://www.jetbrains.com/idea" target="_blank">
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij">
     </a>
-    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge" alt="Status">
 </p>
 
 ## ERD :clipboard:
